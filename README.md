@@ -1,12 +1,12 @@
 # csir-ibm-qml
-Quantum Machine Learning (QML) Hands-on Workshop curated for the CSIR-IBM!  This hands‑on series will introduce you to quantum computing, and quantum machine learning (QML) concepts and practical coding exercises using Qiskit and related quantum tools. Please start with the Lab 0 Activation Notebook.
+Quantum Machine Learning (QML) Hands-on Workshop curated for the CSIR-IBM!  This hands‑on series will introduce you to quantum computing, and QML concepts and practical coding exercises using Qiskit and related quantum tools. Please start with the Lab 0 Activation Notebook.
 
 
-Hosts: Ndivhuwo Nyase, Stephanie Muller,  Lebohang Mashatola, Aviwe Kohlakola, Fabio, Christina, Voica
+Hosts: Ndivhuwo Nyase, Bonga Njamela, Waheeda Saib, Stephanie Muller,  Lebohang Mashatola, Aviwe Kohlakola, Fabio, Christina, Voica
 Date: 01 October 2025
-Time: 10:00 - 14:00
+Time: 14:00 - 16:00
 Place: 47 Juta Street, IBM Research Africa, Johannesburg
-Room: Kivu Tents
+Room: IBM Research Africa
 
 The main goal of this session is to demonstrate how IBM Research scientists leverage Qiskit Patterns to execute QML workflow. We demonstrate an implementation of Variational Quantum Classifiers (VQCs) in labeling unseen images from the well-known IRIS dataset. 
 
