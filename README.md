@@ -17,8 +17,8 @@ The main goal of this session is to demonstrate how IBM Research scientists leve
 3. [Setup & Installation](#setup--installation)
 4. [Workshop Structure](#workshop-structure)
 5. [Exercise 1: Activation Workshop](#exercise-1-getting-started)
-   - [1.1 Superposition](#11-superposition)
-   - [1.2 Bell State](#12-bell-state)
+   - [1.1 Bell State](#12-bell-state)
+   - [1.2 Superposition](#11-superposition)
    - [1.3 GHZ State](#13-ghz-state)
 6. [Exercise 2: Quantum Machine Learning](#qml)
 
