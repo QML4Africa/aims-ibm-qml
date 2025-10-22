@@ -2,7 +2,7 @@
 Quantum Machine Learning (QML) Hands-on Workshop curated for AIMS!  This hands‑on series will introduce you to quantum computing, and QML concepts and practical coding exercises using Qiskit and related quantum tools. Please start with the Lab 0 Activation Notebook.
 
 
-Hosts: Lebohang Mashatola, Aviwe Kohlakola, Ndivhuwo Nyase, Bonga Njamela, Waheeda Saib, Stephanie Muller, Fabio, Christina, Voica
+Hosts: Lebohang Mashatola, Aviwe Kohlakala, Ndivhuwo Nyase, Bonga Njamela, Waheeda Saib, Stephanie Muller, Fabio, Christina, Voica
 Date: 26 October 2025
 Time: 15:00 - 18:00
 Place: 7 Melrose Rd, Muizenberg, Cape Town, South Africa
