@@ -1,5 +1,5 @@
 # aims-ibm-qml
-Quantum Machine Learning (QML) Hands-on Workshop curated for the AIMS!  This hands‑on series will introduce you to quantum computing, and QML concepts and practical coding exercises using Qiskit and related quantum tools. Please start with the Lab 0 Activation Notebook.
+Quantum Machine Learning (QML) Hands-on Workshop curated for AIMS!  This hands‑on series will introduce you to quantum computing, and QML concepts and practical coding exercises using Qiskit and related quantum tools. Please start with the Lab 0 Activation Notebook.
 
 
 Hosts: Lebohang Mashatola, Aviwe Kohlakola, Ndivhuwo Nyase, Bonga Njamela, Waheeda Saib, Stephanie Muller, Fabio, Christina, Voica
