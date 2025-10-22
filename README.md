@@ -63,16 +63,7 @@ In this workshop You will:
 
 In this first exercise, you will build foundational quantum circuits:
 
-### 1.1 Superposition
-
-- **Objective:** Prepare a single qubit in an equal superposition of |0⟩ and |1⟩.
-- **Steps:**
-  1. Create a 1-qubit circuit with 1 classical bit.
-  2. Apply the Hadamard gate (`H`) to qubit 0.
-  3. Measure the qubit into the classical bit.
-  4. Simulate with 1024 shots and plot the histogram of outcomes (expect \~50% 0 and 50% 1).
-
-### 1.2 Bell State
+### 1.1 Bell State
 
 - **Objective:** Entangle two qubits to form a Bell (EPR) pair.
 - **Steps:**
@@ -80,6 +71,15 @@ In this first exercise, you will build foundational quantum circuits:
   2. Apply `H` to qubit 0.
   3. Apply `CX` (CNOT) from qubit 0 → qubit 1.
   4. Measure both qubits and visualize the histogram (expect `00` and `11` only).
+  
+### 1.2 Superposition
+
+- **Objective:** Prepare a single qubit in an equal superposition of |0⟩ and |1⟩.
+- **Steps:**
+  1. Create a 1-qubit circuit with 1 classical bit.
+  2. Apply the Hadamard gate (`H`) to qubit 0.
+  3. Measure the qubit into the classical bit.
+  4. Simulate with 1024 shots and plot the histogram of outcomes (expect \~50% 0 and 50% 1).
 
 ### 1.3 GHZ State
 
