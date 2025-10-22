@@ -16,7 +16,7 @@ The main goal of this session is to demonstrate how IBM Research scientists leve
 2. [Prerequisites](#prerequisites)
 3. [Setup & Installation](#setup--installation)
 4. [Workshop Structure](#workshop-structure)
-5. [Exercise 1: Activation Workshop](#exercise-1-getting-started)
+5. [Exercise 1: Set Up Workshop](#exercise-1-getting-started)
    - [1.1 Bell State](#12-bell-state)
    - [1.2 Superposition](#11-superposition)
    - [1.3 GHZ State](#13-ghz-state)
@@ -59,7 +59,7 @@ In this workshop You will:
 - Simulate on Aer simulators and run on IBM Quantum hardware
 - Progress to simple QML models using the IRIS dataset by the end of the series
 
-## Lab 0: Activation Workshop
+## Lab 0: Set-Up Workshop
 
 In this first exercise, you will build foundational quantum circuits:
 
