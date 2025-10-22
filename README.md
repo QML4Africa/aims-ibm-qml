@@ -40,8 +40,8 @@ Quantum Computing harnesses quantum mechanics including superposition, entanglem
 
 1. Clone the workshop repository:
    ```bash
-   git clone https://github.com/QML4Africa/csir-ibm-qml.git
-   cd csir-ibm-qml
+   git clone https://github.com/QML4Africa/aims-ibm-qml.git
+   cd aims-ibm-qml
    ```
 2. Create and activate a virtual environment:
    ```bash
