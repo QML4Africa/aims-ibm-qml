@@ -1,8 +1,8 @@
 # aims-ibm-qml
-Quantum Machine Learning (QML) Hands-on Workshop curated for the AIMS!  This hands‑on series will introduce you to quantum computing, and QML concepts and practical coding exercises using Qiskit and related quantum tools. Please start with the Lab 0 Activation Notebook.
+Quantum Machine Learning (QML) Hands-on Workshop curated for AIMS!  This hands‑on series will introduce you to quantum computing, and QML concepts and practical coding exercises using Qiskit and related quantum tools. Please start with the Lab 0 Activation Notebook.
 
 
-Hosts: Lebohang Mashatola, Aviwe Kohlakola, Ndivhuwo Nyase, Bonga Njamela, Waheeda Saib, Stephanie Muller, Fabio, Christina, Voica
+Hosts: Lebohang Mashatola, Aviwe Kohlakala, Ndivhuwo Nyase, Bonga Njamela, Waheeda Saib, Stephanie Muller, Fabio, Christina, Voica
 Date: 26 October 2025
 Time: 15:00 - 18:00
 Place: 7 Melrose Rd, Muizenberg, Cape Town, South Africa
@@ -16,9 +16,9 @@ The main goal of this session is to demonstrate how IBM Research scientists leve
 2. [Prerequisites](#prerequisites)
 3. [Setup & Installation](#setup--installation)
 4. [Workshop Structure](#workshop-structure)
-5. [Exercise 1: Activation Workshop](#exercise-1-getting-started)
-   - [1.1 Superposition](#11-superposition)
-   - [1.2 Bell State](#12-bell-state)
+5. [Exercise 1: Set Up Workshop](#exercise-1-getting-started)
+   - [1.1 Bell State](#12-bell-state)
+   - [1.2 Superposition](#11-superposition)
    - [1.3 GHZ State](#13-ghz-state)
 6. [Exercise 2: Quantum Machine Learning](#qml)
 
@@ -40,8 +40,8 @@ Quantum Computing harnesses quantum mechanics including superposition, entanglem
 
 1. Clone the workshop repository:
    ```bash
-   git clone https://github.com/QML4Africa/csir-ibm-qml.git
-   cd csir-ibm-qml
+   git clone https://github.com/QML4Africa/aims-ibm-qml.git
+   cd aims-ibm-qml
    ```
 2. Create and activate a virtual environment:
    ```bash
@@ -59,20 +59,11 @@ In this workshop You will:
 - Simulate on Aer simulators and run on IBM Quantum hardware
 - Progress to simple QML models using the IRIS dataset by the end of the series
 
-## Lab 0: Activation Workshop
+## Lab 0: Set-Up Workshop
 
 In this first exercise, you will build foundational quantum circuits:
 
-### 1.1 Superposition
-
-- **Objective:** Prepare a single qubit in an equal superposition of |0⟩ and |1⟩.
-- **Steps:**
-  1. Create a 1-qubit circuit with 1 classical bit.
-  2. Apply the Hadamard gate (`H`) to qubit 0.
-  3. Measure the qubit into the classical bit.
-  4. Simulate with 1024 shots and plot the histogram of outcomes (expect \~50% 0 and 50% 1).
-
-### 1.2 Bell State
+### 1.1 Bell State
 
 - **Objective:** Entangle two qubits to form a Bell (EPR) pair.
 - **Steps:**
@@ -80,6 +71,15 @@ In this first exercise, you will build foundational quantum circuits:
   2. Apply `H` to qubit 0.
   3. Apply `CX` (CNOT) from qubit 0 → qubit 1.
   4. Measure both qubits and visualize the histogram (expect `00` and `11` only).
+  
+### 1.2 Superposition
+
+- **Objective:** Prepare a single qubit in an equal superposition of |0⟩ and |1⟩.
+- **Steps:**
+  1. Create a 1-qubit circuit with 1 classical bit.
+  2. Apply the Hadamard gate (`H`) to qubit 0.
+  3. Measure the qubit into the classical bit.
+  4. Simulate with 1024 shots and plot the histogram of outcomes (expect \~50% 0 and 50% 1).
 
 ### 1.3 GHZ State
 
